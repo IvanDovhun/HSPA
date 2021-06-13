@@ -18,7 +18,6 @@ warning(message: string){
 
 error(message: string){
   alertyfy.error(message);
-
 }
 
 
